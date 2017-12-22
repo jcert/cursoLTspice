@@ -1,0 +1,7 @@
+.subckt fizocursodespice 1 2 3
+R1 1 2 1k
+D1 3 2 D
+C1 3 1 1n
+.model D D
+.lib C:\users\certorio\My Documents\LTspiceXVII\lib\cmp\standard.dio
+.ends fizocursodespice
