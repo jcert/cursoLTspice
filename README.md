@@ -1,0 +1,2 @@
+# cursoLTspice
+Curso de ltspice
